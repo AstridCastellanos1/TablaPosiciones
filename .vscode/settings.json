@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\astri.DESKTOP-KG4HH30\\Downloads\\json-simple-1.1.1.jar"
+    ]
+}
