@@ -1,0 +1,8 @@
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Progra III\CalcularTablaPosicionesC\CalcularTablaPosicionesC\bin\Debug\CalcularTablaPosicionesC.exe.config
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Progra III\CalcularTablaPosicionesC\CalcularTablaPosicionesC\bin\Debug\CalcularTablaPosicionesC.exe
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Progra III\CalcularTablaPosicionesC\CalcularTablaPosicionesC\bin\Debug\CalcularTablaPosicionesC.pdb
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Progra III\CalcularTablaPosicionesC\CalcularTablaPosicionesC\obj\Debug\CalcularTablaPosicionesC.csproj.AssemblyReference.cache
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Progra III\CalcularTablaPosicionesC\CalcularTablaPosicionesC\obj\Debug\CalcularTablaPosicionesC.csproj.SuggestedBindingRedirects.cache
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Progra III\CalcularTablaPosicionesC\CalcularTablaPosicionesC\obj\Debug\CalcularTablaPosicionesC.csproj.CoreCompileInputs.cache
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Progra III\CalcularTablaPosicionesC\CalcularTablaPosicionesC\obj\Debug\CalcularTablaPosicionesC.exe
+C:\Users\astri.DESKTOP-KG4HH30\OneDrive\Escritorio\Proyecto Progra III\CalcularTablaPosicionesC\CalcularTablaPosicionesC\obj\Debug\CalcularTablaPosicionesC.pdb
